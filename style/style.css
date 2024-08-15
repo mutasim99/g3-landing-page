@@ -253,4 +253,27 @@
       grid-template-columns: repeat(2, 1fr);
       gap: 30px;
     }
+    .love-and-enjoy-container{
+      flex-direction: column;
+    }
+    .love-and-enjoy-container img{
+      width: 100%;
+    }
+    .btn-secondary{
+      width: 200px;
+      height: 64px;
+      margin: 0;
+   }
+   #btn-style{
+    font-weight: 400;
+    font-size: 1rem;
+   }
+   #btn-style-two{
+    font-weight: 400;
+    font-size: 1rem
+   }
+   .sponser-companies{
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+   }
   }
