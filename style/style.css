@@ -110,6 +110,60 @@
   #features{
     color: #FF900E;
   }
+  /* love and enjoy sections styless */
+  .love-and-enjoy-title{
+    font-weight: 700;
+    font-size: 3.7rem;
+    color: #131313;
+    border-left: 8px solid #FF900E;
+    padding: 25px;
+  }
+  .love-and-enjoy-description{
+    font-weight: 400;
+    font-size: 1rem;
+    color: #727272;
+    max-width: 580px;
+  }
+  .love-and-enjoy-container{
+    max-width: 1440px;
+    margin: 0 auto;
+    margin-top: 170px;
+    display: flex;
+    gap: 90px;
+  }
+  .love-and-enjoy-cart-title{
+    font-weight: 600;
+    font-size: 1.25rem;
+    color: #131313;
+  }
+  .love-and-enjoy-cart-description{
+    font-weight: 400;
+    font-size: 1rem;
+  }
+  .love-and-enjoy-cart{
+    border-radius: 8px;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+    background: rgb(255, 255, 255);
+    max-width: 580px;
+    text-align: center;
+    margin-top: 50px;
+  }
+  .btn-secondary{
+    width: 300px;
+    height: 200px;
+    background-color: #FF900E;
+    color: white;
+    margin-left: -70px;
+    margin-top: -100px;
+  }
+  #btn-style{
+    font-weight: 700;
+    font-size: 4rem;
+  }
+  #btn-style-two{
+    font-weight: 400;
+    font-size: 1rem;
+  }
   /* Facts related styles */
   .facts{
     max-width: 1440px;
